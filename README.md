@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ### Running the System
 1. Start the Python script:
 ```sh
-python driver_monitor.py
+python detection.py
 ```
 2. Ensure the Node.js server is running to handle database communication.
 
@@ -52,4 +52,5 @@ python driver_monitor.py
 - Implement **Real-time Dashboard** for monitoring multiple drivers.
 - Improve model accuracy using **custom YOLOv8 training**.
 - Deploy as an **Edge AI solution** for in-vehicle devices.
+
 
